@@ -21,7 +21,12 @@ No additional files needed.
 
 Download:
 ==============================================================================
-After all necessary files have been added to the root directory of the controller, wget this repository in the root directory.
+After all necessary files have been added to the root directory of the controller, wget the Linux repository folder in the root directory.
 
 Then bash nodescript.sh (./nodescript.sh), and follow the commands in the command line. 
 
+After script completion:
+==============================================================================
+Download the PLCnext Engineer library from the PLCnext repository folder, and import into a PLCnext Engineer project.
+
+Read the attached help file for additional guidance. 
