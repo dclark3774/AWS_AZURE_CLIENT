@@ -19,5 +19,7 @@ Azure:
 ------------------------------------------------------------------------------
 No additional files needed.
 
-After all necessary files have been added to the root directory of the controller, bash nodescript.sh.
+After all necessary files have been added to the root directory of the controller, wget this repository in the root directory.
+
+Then bash nodescript.sh (./nodescript.sh), and follow the commands in the command line. 
 
