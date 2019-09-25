@@ -4,7 +4,7 @@ This repository was created to allow the AXC F 2152 connection to AWS or Azure.
 For this repository, ensure that the AXC F 2152 has an internet connection.
 
 Below explains the additional files needed for the code to function properly.
------------------------------------------------------------------------------
+============================================================================
 AWS:
 -----------------------------------------------------------------------------
 A folder with the AWS certificates on the AXC F 2152 in the root directory. 
@@ -19,6 +19,8 @@ Azure:
 ------------------------------------------------------------------------------
 No additional files needed.
 
+Download:
+==============================================================================
 After all necessary files have been added to the root directory of the controller, wget this repository in the root directory.
 
 Then bash nodescript.sh (./nodescript.sh), and follow the commands in the command line. 
