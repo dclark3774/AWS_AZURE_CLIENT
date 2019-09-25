@@ -27,6 +27,6 @@ Then bash nodescript.sh (./nodescript.sh), and follow the commands in the comman
 
 After script completion:
 ==============================================================================
-Download the PLCnext Engineer library from the PLCnext_AWS_AZURE repository, and import into a PLCnext Engineer project.
+Download the PLCnext Engineer library from my PLCnext_AWS_AZURE repository, and import into a PLCnext Engineer project.
 
 Read the help file attached to the library for additional guidance. 
