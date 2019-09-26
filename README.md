@@ -7,7 +7,7 @@ Below explains the additional files needed for the code to function properly.
 ============================================================================
 AWS:
 -----------------------------------------------------------------------------
-A folder with the AWS certificates on the AXC F 2152 in the root directory. 
+A folder with the AWS certificates on the AXC F 2152 in the opt/plcnext directory. 
 The folder name MUST be named AWSCerts. It is case sensitive. 
 
 There must be at least 3 files within this folder. 
