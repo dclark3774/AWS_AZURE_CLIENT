@@ -3,6 +3,8 @@ This repository was created to allow the AXC F 2152 connection to AWS or Azure.
 
 For this repository, ensure that the AXC F 2152 has an internet connection.
 
+Download the nodescript.sh script to your PC, and using WINSCP copy the file to the /opt/plcnext/ folder of the PLCNext.
+
 Below explains the additional files needed for the code to function properly.
 ============================================================================
 AWS:
